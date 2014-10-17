@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[irn:home|Door43 (irn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-irn|d43-irn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-irn/archive/master.zip|d43-irn.zip]]
+
+**Recent Changes**
+{{changes>ns = irn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/irn|Ethnologue data]]
+
